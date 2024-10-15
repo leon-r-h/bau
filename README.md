@@ -6,3 +6,7 @@ A (meta?) build system based on Ninja, which tries to implement the things that 
 - *Lists*: Manipulate lists for batch file processing (e.g., compiling multiple sources).
 - *Conditionals*: if/else statements for dynamic build configurations.
 - *File searching*: Index and list files by extension or characteristics.
+
+## Goals
+- Establish cruide Ninja 1.0 (not 1.1) compatibility.
+- Implement the new features.
